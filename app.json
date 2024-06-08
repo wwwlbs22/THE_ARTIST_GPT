@@ -1,7 +1,7 @@
 {
   "name": "telegram-gpt-bot",
   "description": "A Telegram bot powered by GPT-3",
-  "repository": "https://github.com/yourusername/yourrepository",
+  "repository": "https://github.com/wwwlbs22/THE_ARTIST_GPT",
   "env": {
     "BOT_TOKEN": {
       "description": "The token for your Telegram bot",
